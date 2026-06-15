@@ -3,6 +3,7 @@
 This repository contains the data products associated with the paper
 
 [Duann et al., 2026, A&A, accepted]
+http://arxiv.org/abs/2606.11737
 
 The data provide cluster classification results for an observational
 exoplanet sample and for a synthetic planet population mapped into the
